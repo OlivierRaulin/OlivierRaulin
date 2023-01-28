@@ -26,18 +26,25 @@ You will find more details on my website below.
 ### System
 
 :penguin: Linux, of course! (Mostly Debian, with a bit of Ubuntu)
+
 :cloud: I used AWS, enough to understand when not to use it 
-:arrow_right: More on my website (in Frencvh)
+
+:arrow_right: More on my website (in French)
 
 ### Dev
 
 :snake: Python
+
 :computer: Bash
+
 :notebook: A bit of PHP, Javascript, Java...
+
 :books: Learning Rust
 
 ## Some Links
 
 :link: [**My website (in French)**] (https://olivier-raulin.fr)
+
 :link: [**My LinkedIn**] (https://linkedin.com/in/olivierraulin)
+
 :link: [**My blog (dead since 2014, in French)**] (https://blog.olivier-raulin.fr)
