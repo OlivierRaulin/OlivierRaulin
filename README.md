@@ -33,13 +33,13 @@ You will find more details on my website below.
 
 ### :space_invader: Dev
 
-    :snake: Python
+:snake: Python
 
-    :computer: Bash
+:computer: Bash
 
-    :notebook: A bit of PHP, Javascript, Java...
+:notebook: A bit of PHP, Javascript, Java...
 
-    :books: Learning Rust
+:books: Learning Rust
 
 ## Some Links
 
