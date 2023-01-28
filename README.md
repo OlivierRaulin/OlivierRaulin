@@ -23,7 +23,7 @@ You will find more details on my website below.
 
 ## Some skills
 
-### System
+### System
 
 :penguin: Linux, of course! (Mostly Debian, with a bit of Ubuntu)
 
